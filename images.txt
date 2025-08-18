@@ -1,1 +1,1 @@
-alpine:3.20.7
+openjdk:8-jre
