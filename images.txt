@@ -1,1 +1,1 @@
-zookeeper:latest
+gitlab/gitlab-runner:latest
