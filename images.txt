@@ -1,1 +1,1 @@
-styletang/rocketmq-console-ng:2.0.0
+styletang/rocketmq-console-ng
